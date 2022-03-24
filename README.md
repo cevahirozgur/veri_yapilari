@@ -1,2 +1,2 @@
 # veri_yapilari
-Veri bilimi dünyasının yapı taşı olan veri yapılarını özetledim
+Burada veri bilimi dünyasının yapı taşı olan veri yapılarını özetledim.İyi çalışmalar...
